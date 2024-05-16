@@ -24,6 +24,7 @@
 </div>
 
 ### cobrinha
+
 name: Generate Datas
 
 on:
@@ -40,7 +41,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: rafaballerini
+          github_user_name: Paulo-if
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
