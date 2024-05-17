@@ -3,7 +3,7 @@
 
 ## Mais sobre mim👨‍💻 
 - 📍 Sou do Brasil.
-- 🌱 Atualmente Estudante de Ciência da Computação na UFJ.
+- 💻 Atualmente Estudante de Ciência da Computação na UFJ.
 - 📚 Estou Constantemente Tentando Expandir Meu Conhecimento.
 - ⛏️ Gosto de jogar no meu tempo livre.
 
