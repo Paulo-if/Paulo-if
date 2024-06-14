@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=140&size=40&duration=800&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Oie👋;+Meu+name+é+Paulo👨‍💻;Tenho+19+Anos;Sou+ávido+estudante+da+Computação;✨Bem+vindo✨)](https://git.io/typing-svg)
 
-# 🏄‍♂️Paulo
+# 🏄‍♂️ Paulo
 **`(Developer in the Making -> Driven by Curiosity)`**
 
 Estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ), tento buscar constantemente conhecimentos novos, com o objetivo de não ser um "mimado dopaminérgico🎈”.
