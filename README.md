@@ -1,3 +1,4 @@
+# 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=140&size=40&duration=800&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Oie👋;+Meu+name+é+Paulo👨‍💻;Tenho+19+Anos;Sou+ávido+estudante+da+Computação;✨Bem+vindo✨)](https://git.io/typing-svg)
 
 # 🌱 Paulo
@@ -24,19 +25,14 @@ Estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ), t
 
 
 <details>
- <summary><h3> 🧸About Me</h3></summary>
-  
-  🗺️ Sou do Brasil.
-      
-  ⛏️ Estou Constantemente Tentando Expandir Meu Conhecimento.
-  
-  🕹️ Gosto de jogar no meu tempo livre. 
-  
-  📚 Livro que estou lendo: 
-  <div align="left">
-  <img height="200" src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._SL1296_.jpg"  />
+ <summary><h3>  🗺️⛏️🕹️Um Pouco Mais de Mim</h3></summary>
+
+- Sou brasileiro🗺️, apaixonado pelo mundo, mesmo que seja o virtual. Acredito que o conhecimento é poder e, por isso, estou constantemente em busca de novos desafios e aprendizados⛏️. Seja mergulhando em livros, explorando um novo hobby ou simplesmente conversando com pessoas interessantes. Nas minhas horas vagas estou jogando com algum amigo🕹️...
+
+#### 📚 Livro que estou lendo: 
+<div align="left">
+<img height="200" src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._SL1296_.jpg"  />
 </div>
 
-###
- 
+# 
 
