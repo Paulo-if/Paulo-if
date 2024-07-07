@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-<img align="center" alt="IMG" height="200" width="350" src="https://github.com/Paulo-if/Paulo-if/blob/main/Bem%20vindo-Photoroom.png">
+<img align="center" alt="IMG" height="200" width="350" src="https://github.com/Paulo-if/Paulo-if/blob/main/Bem%20vindo.png">
 </div>
 
 # 🕹️ ME
