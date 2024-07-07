@@ -27,10 +27,6 @@ Estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ), t
 
 - Sou brasileiro🗺️, apaixonado pelo mundo, mesmo que seja o virtual. Acredito que o conhecimento é poder e, por isso, estou constantemente em busca de novos desafios e aprendizados⛏️. Seja mergulhando em livros, explorando um novo hobby ou simplesmente conversando com pessoas interessantes. Nas minhas horas vagas estou jogando com algum amigo
 
-#### 📚 Livro que estou lendo: 
-<div align="left">
-<img height="200" src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._SL1296_.jpg"  />
-</div>
 
 # 
 
