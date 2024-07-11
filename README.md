@@ -1,16 +1,19 @@
-<div style="display: inline_block"><br>
-<img align="center" alt="IMG" height="200" width="350" src="https://github.com/Paulo-if/Paulo-if/blob/main/Bem%20vindo.png">
+<div align="center">
+  <img src="https://github.com/Paulo-if/Paulo-if/blob/main/Welcome%20(1).png" alt="IMG" width="500" height="150">
 </div>
 
-# 🕹️ ME
+# Hi there, I'm Paulo👋
 **`(Developer in the Making -> Driven by Curiosity)`**
 
-👋Meu nome é Paulo, tenho 19 anos, sou estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ), tento buscar constantemente conhecimentos novos, com o objetivo de não ser um "mimado dopaminérgico🎈”.
+I'm Paulo, a 19-year-old Computer Science student at the Federal University of Jataí (UFJ). I'm constantly seeking new knowledge because I don't want to become a "Dopaminergic spoiled
+"🎈.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviopaul0/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-115a47283/)
+### 🕹️More About Me
+
+- 🗺️I am from Brazil, passionate about the world, even if it is virtual.
+- ⛏️I believe that knowledge is power, so I am constantly looking for new learning.
+- 🕹️In my spare time I'm playing with a friend.
 ---
-
 
 ### 📈 Skills Development
 
@@ -21,14 +24,29 @@
 ---
 
 ### 📊 Stats
+<p align="center">
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Paulo-if&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+    &nbsp;&nbsp;
+    <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-if&layout=compact&theme=tokyonight#gh-dark-mode-only"/>
+</p>
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-if&show_icons=true&theme=tokyonight)
+--- 
 
-<details>
- <summary><h3>  🗺️⛏️🕹️Um Pouco Mais de Mim</h3></summary>
+### 🧠Repositórios:
 
-- Sou brasileiro, apaixonado pelo mundo, mesmo que seja o virtual. Acredito que o conhecimento é poder e, por isso, estou constantemente em busca de novos desafios e aprendizados. Seja mergulhando em livros, explorando um novo hobby ou simplesmente conversando com pessoas interessantes. Nas minhas horas vagas estou jogando com algum amigo
+<a href="https://github.com/Paulo-if/AP1">
+<img align="center" alt="img" height="150" width="400" src="https://github.com/Paulo-if/Paulo-if/blob/main/Repositorio_de_AP1.png" alt="Repositorio Ap1" width="250" height="200">
+</a>
 
 
-# 
+<a href="https://github.com/Paulo-if/Paython">
+<img align="center" alt="img" height="150" width="400" src="https://github.com/Paulo-if/Paulo-if/blob/main/Paython.png" alt="Repositorio Python" width="250" height="200">
+</a>
+
+--- 
+
+### 📬 Get In Touch
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviopaul0/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-115a47283/)
+
 
