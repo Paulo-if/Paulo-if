@@ -35,12 +35,12 @@ I'm Paulo, a 19 years, Computer Science student at the Federal University of Jat
 ### 🧠Repositórios:
 
 <a href="https://github.com/Paulo-if/AP1">
-<img align="center" alt="img" height="150" width="300" src="https://github.com/Paulo-if/Paulo-if/blob/main/Repositorio_de_AP1.png" alt="Repositorio Ap1" width="250" height="200">
+<img align="left" alt="img" height="150" width="300" src="https://github.com/Paulo-if/Paulo-if/blob/main/Repositorio_de_AP1.png" alt="Repositorio Ap1" width="250" height="200">
 </a>
 
 
 <a href="https://github.com/Paulo-if/Paython">
-<img align="center" alt="img" height="150" width="300" src="https://github.com/Paulo-if/Paulo-if/blob/main/Paython.png" alt="Repositorio Python" width="250" height="200">
+<img align="right" alt="img" height="150" width="300" src="https://github.com/Paulo-if/Paulo-if/blob/main/Paython.png" alt="Repositorio Python" width="250" height="200">
 </a>
 
 <a href="https://github.com/Paulo-if/TCG">
