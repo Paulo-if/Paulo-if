@@ -8,6 +8,8 @@
 I'm Paulo, a 19 years, Computer Science student at the Federal University of Jataí (UFJ). I am constantly looking for new knowledge so as not to become a "Dopaminergic spoiled
 "🎈.
 
+I'm passionate about the mobile area, but attracted to the A.I ​​area
+
 ### 🕹️More About Me
 
 - 🗺️I am from Brazil, passionate about the world, even if it is virtual.
