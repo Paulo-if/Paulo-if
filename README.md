@@ -5,7 +5,8 @@
 # Hi there, I'm Paulo👋
 **`(Developer in the Making -> Driven by Curiosity)`**
 
-My name is Paulo, 19 years old, Computer Science student at the Federal University of Jataí (UFJ). Focusing on AI development. I am constantly looking for new knowledge so as not to become a "dopaminergic spoilt".🎈
+
+My name is Paulo, I'm 19 years old, I'm a Computer Science student at the Federal University of Jataí (UFJ). I am constantly looking for new knowledge so as not to become a “dopaminergic spoilt”.🎈
 
 
 ### 🕹️More About Me
