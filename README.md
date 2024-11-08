@@ -35,26 +35,6 @@ My name is Paulo, I'm 19 years old, I'm a Computer Science student at the Federa
 
 --- 
 
-### 🧠Repositórios:
-
-<a href="https://github.com/Paulo-if/AP1">
-<img align="left" alt="img" height="150" width="250" src="https://github.com/Paulo-if/Paulo-if/blob/main/2.png" alt="Repositorio Ap1" width="250" height="200">
-</a>
-
-
-
-<a href="https://github.com/Paulo-if/Paython">
-<img align="center" alt="img" height="150" width="250" src="https://github.com/Paulo-if/Paulo-if/blob/main/1.png" alt="Repositorio Python" width="250" height="200">
-</a>
-
-
-
-<a href="https://github.com/Paulo-if/TCG">
-<img align="center" alt="img" height= "150" width="300" src="https://github.com/Paulo-if/Paulo-if/blob/main/3.png" alt="Repositorio Python" width="250" height="200">
-</a>
-
---- 
-
 ### 📬 Get In Touch
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviopaul0/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-a06738223/)
