@@ -25,9 +25,7 @@ My name is Paulo, I'm 19 years old, I'm a Computer Science student at the Federa
 <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
 ---
-### 🧠Best_Repositories:
 
---- 
 ### 📊 Stats
 <p align="center">
     <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Paulo-if&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
