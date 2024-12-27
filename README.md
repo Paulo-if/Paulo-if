@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Paulo-if/Paulo-if/blob/main/fotos/Welcome%20(1).png" alt="IMG" width="500" height="150">
+  <img src="https://github.com/Paulo-if/Paulo-if/blob/main/Banner%20linkedin%20lego%20(1).png" alt="IMG" width="800" height="240">
 </div>
 
 # Hi there, I'm Paulo👋
