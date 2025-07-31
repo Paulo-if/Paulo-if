@@ -1,6 +1,6 @@
 
 
-                                                      # Hi there, I'm Paulo👋
+                                                           I'm Paulo👋
 **`(Developer in the Making -> Driven by Curiosity)`**
 
 
@@ -11,16 +11,14 @@ My name is Paulo, born in 2005, I'm a Computer Science student at the Federal Un
 
 - 🗺️I am from Brazil, passionate about the world, even if it is virtual.
 - ⛏️I believe that knowledge is power, so I am constantly looking for new learning.
-- 🕹️In my spare time I'm playing with a friend.
+- 🕹️In my free time, I usually play games.
 ---
 
 ### 📈 Skill:
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-| <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-| <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-| <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
+<img align="center" alt="C" src="https://skillicons.dev/icons?i=html,css,js,java,angular,c,cpp,figma&theme=light">
 
 ---
 
