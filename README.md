@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Paulo-if/Paulo-if/blob/main/fotos/Banner%20github%20.png" alt="IMG" width="800" height="240">
-</div>
+
 
 # Hi there, I'm Paulo👋
 **`(Developer in the Making -> Driven by Curiosity)`**
