@@ -18,7 +18,7 @@ My name is Paulo, born in 2005, I'm a Computer Science student at the Federal Un
 
 <div style="display: inline_block"><br/>
 
-<img align="center" alt="C" src="https://skillicons.dev/icons?i=html,css,js,java,angular,c,cpp,figma&theme=light">
+<img align="center" alt="C" src="https://skillicons.dev/icons?i=js,java,angular,c,cpp,figma&theme=light">
 
 ---
 
