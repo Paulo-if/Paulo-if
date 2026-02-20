@@ -20,14 +20,9 @@ My name is Paulo, born in 2005, I'm a Computer Science student at the Federal Un
 
 <img align="center" alt="C" src="https://skillicons.dev/icons?i=js,java,angular,c,cpp,figma&theme=light">
 
----
+--- 
 
-### 📊 Stats
-<p align="center">
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Paulo-if&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
-    &nbsp;&nbsp;
-    <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-if&layout=compact&theme=tokyonight#gh-dark-mode-only"/>
-</p>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paulo-if&custom_title=Contributions&hide_border=false&theme=high-contrast&border_color=1560E1&bg_color=transparent&radius=16&area_color=1560E1&area=true&point=ffffff&line=0C3A88&days=30&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/Paulo-if/github-readme-activity-graph)
 
 --- 
 
