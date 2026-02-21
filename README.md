@@ -1,8 +1,6 @@
-
-
-                                                           I'm Paulo👋
-**`(Developer in the Making -> Driven by Curiosity)`**
-
+<a href="https://github.com/Paulo-if">
+  <img src="https://github.com/Paulo-if/Paulo-if/blob/main/Banner%20GitHub%20teste.png" alt="Banner"  style="width:100%; height:auto"/>
+</a>
 
 My name is Paulo, born in 2005, I'm a Computer Science student at the Federal University of Jataí (UFJ). I am constantly looking for new knowledge so as not to become a “dopaminergic spoilt”.🎈
 
