@@ -1,7 +1,9 @@
 <a href="https://github.com/Paulo-if">
   <img src="https://github.com/Paulo-if/Paulo-if/blob/main/Frame 115.png" alt="Banner"  style="width:100%; height:auto"/>
 </a>
-# Hi, I'm Paulo Otávio 👋
+<h1 align="center">
+  Hi, I'm Paulo Otávio 👋
+</h1>
 
 Computer Science student at the **Federal University of Jataí (UFJ)**, born in 2005, passionate about technology, software development, and creating modern digital experiences.
 
