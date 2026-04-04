@@ -54,9 +54,17 @@ I also had the opportunity to **teach front-end development classes**, helping C
 
 ---
 
-## 📬 Connect With Me
+<h2 align="center">📬 Connect With Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-a06738223/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-ot%C3%A1vio-a06738223/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/otaviopaul0/)
+  <a href="https://www.instagram.com/otaviopaul0/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
 
